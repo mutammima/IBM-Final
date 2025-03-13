@@ -25,4 +25,4 @@ By analyzing past launches and key influencing factors, this project aims to:
 - Develop predictive models to determine whether a booster will successfully land.
 - Provide actionable insights through interactive visualizations and dashboards.
 
-_As a data scientist working on this project, your responsibility is to analyze SpaceX’s historical launch data, apply machine learning techniques, and develop a predictive model to support decision-making and future mission planning. _
+_As a data scientist working on this project, your responsibility is to analyze SpaceX’s historical launch data, apply machine learning techniques, and develop a predictive model to support decision-making and future mission planning._
