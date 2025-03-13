@@ -1,18 +1,28 @@
 # SpaceX Falcon9 Rocket Prediction Analysis
 
-
-IBM Final
-
 Mutammim Alom
 
-Spring 2024
+Spring 2025
 
-This project is the final capstone for the IBM Data Science Professional Certificate, focusing on predicting the success of SpaceX Falcon 9 rocket landings. The goal is to analyze past launch data and build machine learning models to determine whether a Falcon 9 booster will land successfully, contributing to cost reduction in space exploration.
+IBM Final Capstone Project
 
-Project Highlights:
+This project is the final capstone for the IBM Data Science Professional Certificate, focusing on predicting the success of SpaceX Falcon 9 rocket landings. The goal is to analyze historical launch data and build machine learning models to determine whether a Falcon 9 booster will land successfully, contributing to cost reduction in space exploration.
 
-- Data Collection & Wrangling: Web scraping and API usage to gather launch data.
-- Exploratory Data Analysis (EDA): Identifying trends and insights through visualization.
+**Project Highlights:**
+- Data Collection & Wrangling: Gathering data using web scraping and SpaceX’s REST API.
+- Exploratory Data Analysis (EDA): Identifying trends and key insights through visualization.
 - Geospatial Visualization: Mapping launch sites with interactive Folium maps.
-- Predictive Modeling: Building classification models (Logistic Regression, SVM, Decision Trees, etc.) to predict landing outcomes.
-- Dashboard & Reporting: Creating an interactive Plotly Dash dashboard to present findings
+- Predictive Modeling: Implementing classification models (Logistic Regression, SVM, Decision Trees, etc.) to predict landing success.
+- Dashboard & Reporting: Developing an interactive Plotly Dash dashboard to present findings.
+- This project demonstrates end-to-end data science workflows, covering data gathering, cleaning, visualization, and machine learning to solve a real-world aerospace challenge. 🚀
+
+**Objective**
+In an effort to reduce the costs of space travel, SpaceX aims to make rocket launches more economical by developing reusable rocket boosters. The company seeks to leverage machine learning models to predict the likelihood of a successful booster landing.
+
+By analyzing past launches and key influencing factors, this project aims to:
+
+- Identify the most critical factors affecting Falcon 9 booster landings.
+- Develop predictive models to determine whether a booster will successfully land.
+- Provide actionable insights through interactive visualizations and dashboards.
+
+_As a data scientist working on this project, your responsibility is to analyze SpaceX’s historical launch data, apply machine learning techniques, and develop a predictive model to support decision-making and future mission planning. _
